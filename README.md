@@ -1,2 +1,2 @@
 # sockets-java
-exc w sockets
+Exercise working with sockets in Java.
